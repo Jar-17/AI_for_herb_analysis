@@ -1,0 +1,2 @@
+# AI_for_herb_analysis
+2024 NCKU AI_For_Chinese_Medicine_Class
